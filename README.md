@@ -44,7 +44,7 @@
 ### 2. Клонирование репозитория
 
 ```bash
-git clone [https://github.com/Manuloff/customer-retention](https://github.com/Manuloff/customer-retention)
+git clone https://github.com/Manuloff/customer-retention
 cd customer-retention
 ```
 
