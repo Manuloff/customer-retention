@@ -1,0 +1,3 @@
+from src.telegram.middlewares.repo_middleware import RepoMiddleware
+from src.telegram.middlewares.screenshot_middleware import DashboardScreenshotMiddleware
+from src.telegram.middlewares.user_middleware import UserMiddleware
